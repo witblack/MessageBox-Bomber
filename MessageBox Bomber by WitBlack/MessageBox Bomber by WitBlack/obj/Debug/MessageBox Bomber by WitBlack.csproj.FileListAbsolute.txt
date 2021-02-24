@@ -1,0 +1,8 @@
+C:\Users\Win7\documents\visual studio 2012\Projects\MessageBox Bomber by WitBlack\MessageBox Bomber by WitBlack\bin\Debug\MessageBox Bomber by WitBlack.exe.config
+C:\Users\Win7\documents\visual studio 2012\Projects\MessageBox Bomber by WitBlack\MessageBox Bomber by WitBlack\bin\Debug\MessageBox Bomber by WitBlack.exe
+C:\Users\Win7\documents\visual studio 2012\Projects\MessageBox Bomber by WitBlack\MessageBox Bomber by WitBlack\bin\Debug\MessageBox Bomber by WitBlack.pdb
+C:\Users\Win7\documents\visual studio 2012\Projects\MessageBox Bomber by WitBlack\MessageBox Bomber by WitBlack\obj\Debug\MessageBox_Bomber_by_WitBlack.frm_main.resources
+C:\Users\Win7\documents\visual studio 2012\Projects\MessageBox Bomber by WitBlack\MessageBox Bomber by WitBlack\obj\Debug\MessageBox_Bomber_by_WitBlack.Properties.Resources.resources
+C:\Users\Win7\documents\visual studio 2012\Projects\MessageBox Bomber by WitBlack\MessageBox Bomber by WitBlack\obj\Debug\MessageBox Bomber by WitBlack.csproj.GenerateResource.Cache
+C:\Users\Win7\documents\visual studio 2012\Projects\MessageBox Bomber by WitBlack\MessageBox Bomber by WitBlack\obj\Debug\MessageBox Bomber by WitBlack.exe
+C:\Users\Win7\documents\visual studio 2012\Projects\MessageBox Bomber by WitBlack\MessageBox Bomber by WitBlack\obj\Debug\MessageBox Bomber by WitBlack.pdb
